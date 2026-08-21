@@ -1,0 +1,9 @@
+---
+- name: Linux sunucularındaki sertifikaların geçerlilik sürelerini kontrol eder Kategori: İzleme
+  hosts: all
+  gather_facts: false
+  become: false
+  tasks:
+    - name: Örnek görevi çalıştır
+      ansible.builtin.debug:
+        msg: sertifika-kontrol otomasyon iskeleti hazır
