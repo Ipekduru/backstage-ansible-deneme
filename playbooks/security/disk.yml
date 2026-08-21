@@ -1,5 +1,5 @@
 ---
-- name: "Otomasyonu çalıştır | disk ekleme"
+- name: "Otomasyonu çalıştır | diskefesdv"
   hosts: all
   gather_facts: false
   become: false
