@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "disk-ekleme"
+  description: "20 adet disk eklenecek"
+spec:
+  type: automation
+  owner: user:guest
+  lifecycle: experimental
