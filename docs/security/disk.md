@@ -2,12 +2,12 @@
 
 ## Amaç
 
-disk ekleme
+diskefesdv
 
 ## Sınıflandırma
 
 - Kategori: `security`
-- Risk seviyesi: `orta`
+- Risk seviyesi: `yuksek`
 
 ## Çalıştırma
 
