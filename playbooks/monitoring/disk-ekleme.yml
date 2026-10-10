@@ -1,0 +1,9 @@
+---
+- name: "Otomasyonu çalıştır | 20 adet disk eklenecek"
+  hosts: all
+  gather_facts: false
+  become: false
+  tasks:
+    - name: Örnek görevi çalıştır
+      ansible.builtin.debug:
+        msg: "disk-ekleme otomasyon iskeleti hazır"
